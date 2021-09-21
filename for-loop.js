@@ -8,3 +8,6 @@ for (let i =0;i <limit; i++){
 
 
 console.log(total);
+
+
+//JUST A TEST
